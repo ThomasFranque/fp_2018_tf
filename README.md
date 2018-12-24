@@ -1,7 +1,7 @@
 # Down on the Pit
 ## Realizado por Tomás Franco, a21803301
 
-# Referencias para realização do código:
+# Referências para realização do código:
 + Jogo "Dodger" apresentado em aula.
 + Vídeo "Python / Pygame Tutorial - Platformer - Sprite Sheet Animation" de 123Animations no "Youtube"
 + Documentação do pygame em "pygame.org/docs/".
@@ -16,10 +16,12 @@
 
 + A ideia de jogo seria o que aconteceria depois de o jogador cair no buraco ficar lá preso, já que não tem escapatória é melhor apanhar o mais ouro possível.
 
-# Mecanicas
+# Mecânicas
 + O jogador tem de sobreviver o mais tempo possível e apanhar ouro.
 + Pode-se disparar fogo que imobiliza os inimigos durante 2 segundos.
 + A cada 15, 30, 50, 100, 150 pedaço de ouro o jogador recebe uma vida extra.
 
+#Vídeo do Jogo
++ Tomei a liberdade de gravar um pouco jogo: https://www.youtube.com/watch?v=6tyKijpz1U8
 
 ### Boas Festas!
